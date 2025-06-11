@@ -6,6 +6,10 @@ from io import BytesIO
 import torch
 from torch import nn
 from torchvision import transforms
+from flask_cors import CORS  # ← 상단에 import
+
+app = Flask(__name__)
+CORS(app)  # ← Flask 인스턴스 생성 바로 아래!
 
 # ------------------ 모델 정의 ------------------ #
 class DeepCNN(nn.Module):
