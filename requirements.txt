@@ -1,3 +1,5 @@
 flask
-flask-corsgit add requirements.txt
+flask-cors
+torch
+torchvision
 Pillow
