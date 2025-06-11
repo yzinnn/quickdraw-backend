@@ -1,0 +1,13 @@
+{
+  "classes": [
+    "airplane",
+    "rabbit",
+    "mouse"
+  ],
+  "class_to_idx": {
+    "airplane": 0,
+    "mouse": 1,
+    "rabbit": 2
+  },
+  "scene": "scene2"
+}

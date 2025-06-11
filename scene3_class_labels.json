@@ -1,0 +1,13 @@
+{
+  "classes": [
+    "cloud",
+    "tree",
+    "bandage"
+  ],
+  "class_to_idx": {
+    "bandage": 0,
+    "cloud": 1,
+    "tree": 2
+  },
+  "scene": "scene3"
+}

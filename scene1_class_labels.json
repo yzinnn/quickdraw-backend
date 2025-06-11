@@ -1,0 +1,13 @@
+{
+  "classes": [
+    "angel",
+    "dragon",
+    "shoe"
+  ],
+  "class_to_idx": {
+    "angel": 0,
+    "dragon": 1,
+    "shoe": 2
+  },
+  "scene": "scene1"
+}
